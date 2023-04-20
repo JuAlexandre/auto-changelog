@@ -1,0 +1,27 @@
+{
+  "name": "auto-changelog",
+  "version": "1.0.0",
+  "description": "Test auto changelog with commits conventionals",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuAlexandre/auto-changelog.git"
+  },
+  "keywords": [
+    "changelog"
+  ],
+  "author": {
+    "name": "Julien ALEXANDRE",
+    "email": "contact@julienalexandre.com",
+    "url": "https://julienalexandre.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuAlexandre/auto-changelog/issues"
+  },
+  "homepage": "https://github.com/JuAlexandre/auto-changelog#readme"
+}
